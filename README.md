@@ -1,3 +1,6 @@
+# Base de exemplo para apoiar estudo de caso
+Base inicial apenas para demonstração
+
 # Mastering Microservices with Python, Flask, and Docker
 Interested in microservices, and how they can be used for increased agility and scalability?
 
